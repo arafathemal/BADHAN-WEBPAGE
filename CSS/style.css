@@ -1,0 +1,57 @@
+.header-part {
+    background-color: #f0e5e5;
+    padding: 10px;
+    margin: 0;
+}
+
+.slogan {
+    color: #991d1d;
+    text-align: center;
+    font-weight: 900;
+
+}
+
+img {
+    width: 100%;
+    padding-top: 5px;
+    border-radius: 20px;
+}
+
+.logo {
+    width: 120px;
+}
+
+.text-color {
+    color: #fa2121;
+}
+
+.intro-part {
+    text-align: center;
+}
+
+.img-style {
+    width: 75%;
+    border-radius: 20px;
+}
+
+/* main-part */
+.main-part {
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+/* info-text */
+.info-text {
+    color: #a83737;
+}
+
+
+/* footer-part */
+footer {
+    background-color: #496159;
+    padding: 10px;
+}
+
+.footer-style {
+    border-right: 2px solid red;
+}
