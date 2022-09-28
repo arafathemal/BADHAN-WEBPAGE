@@ -50,6 +50,7 @@ img {
 footer {
     background-color: #7ea195;
     padding: 10px;
+    border-radius: 20px;
 }
 
 .footer-style {
